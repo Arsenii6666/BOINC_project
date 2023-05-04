@@ -1,0 +1,3 @@
+D:/C++/2_semester/Project/BOINC_project/cmake-build-debug/CMakeFiles/Project.dir
+D:/C++/2_semester/Project/BOINC_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/2_semester/Project/BOINC_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
